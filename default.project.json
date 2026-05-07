@@ -1,10 +1,6 @@
 {
   "name": "vide-ext",
   "tree": {
-    "$path": "lib",
-
-    "Packages": {
-      "$path": "Packages"
-    }
+    "$path": "lib"
   }
 }
