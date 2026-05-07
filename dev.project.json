@@ -1,0 +1,16 @@
+{
+  "name": "vide-ext",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages",
+        
+        "vide_ext": {
+          "$path": "lib"
+        }
+      }
+    }
+  }
+}
