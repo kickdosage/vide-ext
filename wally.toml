@@ -3,6 +3,7 @@ name = "kickdosage/vide-ext"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+description = "A collection of utility functions and types for vide."
 
 [dependencies]
 vide = "kickdosage/vide-fixed@0.4.2"
